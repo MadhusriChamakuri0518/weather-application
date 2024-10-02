@@ -6,7 +6,7 @@ const App = () => {
   return (
     
       <div>
-        
+        <h1>Weather Application</h1>
       </div>
   )
 }
